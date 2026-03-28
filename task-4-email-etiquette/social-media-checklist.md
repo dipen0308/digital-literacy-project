@@ -14,8 +14,8 @@ As a college student, your digital footprint acts as a secondary resume. Use the
 ---
 
 ## Quick Prevention Checklist
-* [cite_start]**Do** audit your "Tagged Photos" regularly[cite: 68].
-* [cite_start]**Do** use a password manager for unique, strong passwords[cite: 68].
-* [cite_start]**Do** keep your professional and personal lives separate where possible[cite: 68].
-* [cite_start]**Don't** click on suspicious links in DMs, even from friends[cite: 68].
-* [cite_start]**Don't** vent about your college or professors on public forums[cite: 68].
+* **Do** audit your "Tagged Photos" regularly.
+* **Do** use a password manager for unique, strong passwords.
+* **Do** keep your professional and personal lives separate where possible.
+* **Don't** click on suspicious links in DMs, even from friends.
+* **Don't** vent about your college or professors on public forums.
