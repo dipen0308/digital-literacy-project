@@ -88,7 +88,7 @@ Researched the **"Request Money" Trap (UPI Fraud)**, producing a detailed case s
 | 📄 **Final Project Report** | [View Full Report](./report/Project_Report.pdf) |
 | 🎨 **Task 1: Infographic** | [View Presentation](https://github.com/dipen0308/digital-literacy-project/blob/main/task-1-presentation/Digital_Literacy_Infographic.pdf) |
 | 👤 **Task 2: Portfolio** | [View Profile Screenshots](./task-2-portfolio/) |
-| 💻 **Task 3: Platforms** | [View Coding & Quiz Proof](./task-3-platforms/) |
+| 💻 **Task 3: Platforms** | [View Coding & Quiz Proof](https://github.com/dipen0308/digital-literacy-project/tree/main/task-3-platform) |
 | ✉️ **Task 4: Communication** | [View Email & Social Guide](./task-4-email-etiquette/) |
 | 🔐 **Task 5: Cybercrime** | [View Case Study & Checklist](./task-5-cybercrime/) |
 
